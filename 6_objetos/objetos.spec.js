@@ -1,4 +1,4 @@
-const { retornaPropriedade, adicionaPropriedade, removePropriedade, verificaPropriedade } = require('./objetos');
+const { retornaPropriedade, adicionaPropriedade } = require('./objetos');
 
 describe('Testes com objetos', () => {
 

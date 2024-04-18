@@ -10,6 +10,4 @@ function adicionaPropriedade(objeto, propriedade, valor) {
 module.exports = {
     retornaPropriedade,
     adicionaPropriedade,
-    removePropriedade,
-    verificaPropriedade
 };

@@ -9,7 +9,6 @@ function contaCaracteres(texto, caracter) {
 }
 
 module.exports = {
-    somaAteN,
     listaImpares,
     contaCaracteres,
 };

@@ -1,4 +1,4 @@
-const { somaAteN, listaImpares, contaCaracteres, criaMultiplicacao } = require('./loopExercises');
+const { somaAteN, listaImpares, contaCaracteres, criaMultiplicacao } = require('./loops');
 
 describe('Testes de loops', () => {
 

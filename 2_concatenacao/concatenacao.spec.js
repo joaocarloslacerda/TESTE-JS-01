@@ -1,4 +1,4 @@
-const { concatenaTexto, concatenaTextoNumero, concatenaNumeroTexto } = require('./textNumberOperations');
+const { concatenaTexto, concatenaTextoNumero, concatenaNumeroTexto } = require('./concatenacao');
 
 describe('Testes de concatenação de texto e números', () => {
 

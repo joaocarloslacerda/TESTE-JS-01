@@ -1,4 +1,4 @@
-const { classificaIdade, ehPar, podeVotar, encontraMaior } = require('./conditionalExercises');
+const { classificaIdade, ehPar, podeVotar, encontraMaior } = require('./condicionais');
 
 describe('Testes de condicionais', () => {
 

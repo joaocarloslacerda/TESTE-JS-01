@@ -1,7 +1,4 @@
 
-function somaAteN(n) {
-    // Retorna a soma de todos os números de 1 até n
-}
 
 function listaImpares(limite) {
     // Retorna um array contendo todos os números ímpares até 'limite'

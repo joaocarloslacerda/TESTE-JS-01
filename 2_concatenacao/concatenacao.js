@@ -1,3 +1,8 @@
+/*  Cola:
+    É possível somar com a operação + e também com interpolação utilizando crase
+    `texto ${variavel} texto`
+*/
+
 function concatenaTexto(texto1, texto2) {
     // Implemente a função que retorna a concatenação de texto1 e texto2
 }

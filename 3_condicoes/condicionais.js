@@ -1,3 +1,8 @@
+/*
+    Cola:
+    Utilizar if e else para condicionais, sempre com uma condição que resulta em true ou false
+*/
+
 function classificaIdade(idade) {
     // Retorna "criança" se idade < 12, "adolescente" se 12 <= idade < 18, e "adulto" se idade >= 18
 }

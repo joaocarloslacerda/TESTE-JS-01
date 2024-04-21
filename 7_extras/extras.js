@@ -22,13 +22,13 @@ function filtrarAlunos(nomeAluno, listaNomeAlunos) {
     let novaLista = [];
     let i;
     let j = 0;
-    
+
     for(i=0; i<listaNomeAlunos.length; i++){
         if(listaNomeAlunos[i] == nomeAluno){
             novaLista[j] = listaNomeAlunos[i];
             j++;
         }
-    }
+    } 
     return novaLista;
 }
 
